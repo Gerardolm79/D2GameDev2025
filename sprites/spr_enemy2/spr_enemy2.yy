@@ -23,7 +23,7 @@
   ],
   "name":"spr_enemy2",
   "nineSlice":null,
-  "origin":4,
+  "origin":7,
   "parent":{
     "name":"Sprites",
     "path":"folders/Sprites.yy",
@@ -76,7 +76,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":25,
-    "yorigin":26,
+    "yorigin":52,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
