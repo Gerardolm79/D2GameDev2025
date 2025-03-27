@@ -2,7 +2,7 @@
 
 var size = 1;
 
-healthPower = 1;
+health = 1;
 
 side = "left";
 
