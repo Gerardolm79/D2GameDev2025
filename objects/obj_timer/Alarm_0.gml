@@ -1,12 +1,15 @@
 /// @description Insert description here
 
-var getX = 170;
+var getX = 190;
 var getY = 200;
 
 
-var enemy_type = random_range(0,10);
+var type = random_range(0,15);
 
 var side = random_range(0,10);
+
+var qty = random_range(1,5);
+
 
 if (side <= 5)
 {
@@ -17,13 +20,21 @@ else
 	getX = 350;
 }
 
-if(enemy_type <= 5)
-{	
-	instance_create_layer(getX, getY, "Instances", obj_enemy1);
-}
-else
+for ( i = 1; i <= qty; i++)
 {
-	instance_create_layer(getX, getY, "Instances", obj_enemy2);
+	if(type <= 5)
+	{	
+	
+		instance_create_layer(getX+(i*25), getY, "Instances", obj_enemy1);
+	}
+	else if (type <= 10 )
+	{
+		instance_create_layer(getX+(i*25), getY, "Instances", obj_enemy2);
+	}
+	else
+	{
+		instance_create_layer(getX+(i*25), getY, "Instances", obj_light);
+	}
 }
 //enemy1.x += 10;
 //enemy1.y += 10;
