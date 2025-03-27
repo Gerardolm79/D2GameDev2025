@@ -30,12 +30,14 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"SparktacularAdventure",
   "resources":[
+    {"id":{"name":"obj_spark","path":"objects/obj_spark/obj_spark.yy",},},
     {"id":{"name":"playRoom","path":"rooms/playRoom/playRoom.yy",},},
     {"id":{"name":"background","path":"sprites/background/background.yy",},},
+    {"id":{"name":"spr_spark","path":"sprites/spr_spark/spr_spark.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
