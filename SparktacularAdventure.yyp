@@ -30,16 +30,17 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"SparktacularAdventure",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"playRoom","path":"rooms/playRoom/playRoom.yy",},},
+    {"id":{"name":"background","path":"sprites/background/background.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"playRoom","path":"rooms/playRoom/playRoom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
