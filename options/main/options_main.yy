@@ -1,5 +1,5 @@
 {
-  "$GMMainOptions":"",
+  "$GMMainOptions":"v1",
   "%Name":"Main",
   "name":"Main",
   "option_author":"",

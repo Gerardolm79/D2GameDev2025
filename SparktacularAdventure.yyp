@@ -46,6 +46,9 @@
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
+    {"id":{"name":"playRoom","path":"rooms/playRoom/playRoom.yy",},},
+    {"id":{"name":"snd_spark","path":"sounds/snd_spark/snd_spark.yy",},},
+    {"id":{"name":"snd_water","path":"sounds/snd_water/snd_water.yy",},},
     {"id":{"name":"background","path":"sprites/background/background.yy",},},
     {"id":{"name":"spr_background_postapocalyptic","path":"sprites/spr_background_postapocalyptic/spr_background_postapocalyptic.yy",},},
     {"id":{"name":"spr_background_water","path":"sprites/spr_background_water/spr_background_water.yy",},},
@@ -65,7 +68,8 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
-    {"roomId":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},},
+    {"roomid":{"name":"playRoom","path":"rooms/playRoom/playRoom.yy",},},
+	{"roomId":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
