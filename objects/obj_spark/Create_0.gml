@@ -2,6 +2,9 @@ var size = 1;
 image_speed = 0.5;
 health = 1;
 
+shooting_time = current_time;
+is_shooting = false;
+
 side = "left";
 
 y_speed = 0;
