@@ -2,7 +2,7 @@
 
 health--;
 show_debug_message("score: " +  string(health));
-audio_play_sound(snd_water, 0, 0);
+audio_play_sound(snd_sizzle, 0, 0);
 instance_destroy(other);
 
 if( health <= 0 )
