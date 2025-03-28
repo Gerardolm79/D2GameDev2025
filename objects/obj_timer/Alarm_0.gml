@@ -14,11 +14,11 @@ var qty = random_range(1,5);
 
 if (side <= 5)
 {
-	getX = 180;
+	getX = 290;
 }
 else 
 {
-	getX = 350;
+	getX = 420;
 }
 
 

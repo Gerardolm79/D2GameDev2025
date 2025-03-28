@@ -1,7 +1,5 @@
-/// @description create spark
-
 var size = 1;
-
+image_speed = 0.5;
 health = 1;
 
 side = "left";

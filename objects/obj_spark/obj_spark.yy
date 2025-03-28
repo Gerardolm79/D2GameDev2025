@@ -37,8 +37,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_spark",
-    "path":"sprites/spr_spark/spr_spark.yy",
+    "name":"spr_character_spark",
+    "path":"sprites/spr_character_spark/spr_character_spark.yy",
   },
   "spriteMaskId":null,
   "visible":true,

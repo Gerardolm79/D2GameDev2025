@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"SparktacularAdventure",
   "resources":[
@@ -43,7 +43,12 @@
     {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},},
     {"id":{"name":"playRoom","path":"rooms/playRoom/playRoom.yy",},},
     {"id":{"name":"background","path":"sprites/background/background.yy",},},
+    {"id":{"name":"spr_background_postapocalyptic","path":"sprites/spr_background_postapocalyptic/spr_background_postapocalyptic.yy",},},
+    {"id":{"name":"spr_background_water","path":"sprites/spr_background_water/spr_background_water.yy",},},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
+    {"id":{"name":"spr_character_engulfed","path":"sprites/spr_character_engulfed/spr_character_engulfed.yy",},},
+    {"id":{"name":"spr_character_spark_1","path":"sprites/spr_character_spark_1/spr_character_spark_1.yy",},},
+    {"id":{"name":"spr_character_spark","path":"sprites/spr_character_spark/spr_character_spark.yy",},},
     {"id":{"name":"spr_enemy1","path":"sprites/spr_enemy1/spr_enemy1.yy",},},
     {"id":{"name":"spr_enemy2","path":"sprites/spr_enemy2/spr_enemy2.yy",},},
     {"id":{"name":"spr_light","path":"sprites/spr_light/spr_light.yy",},},
