@@ -8,5 +8,5 @@ current_value = max(current_value, 0);
 if (current_value <= 0 && !gameover_triggered) {
     gameover_triggered = true;
 
-    room_goto(rm_gameover); 
+    //room_goto(rm_gameover); 
 }

@@ -8,5 +8,6 @@ instance_destroy(other);
 if( health <= 0 )
 {
 	show_debug_message("You're death");
+	room_goto(rm_gameover);
 	//instance_destroy(this);
 }
