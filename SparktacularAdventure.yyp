@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"SparktacularAdventure",
   "resources":[
@@ -42,6 +42,8 @@
     {"id":{"name":"obj_spark","path":"objects/obj_spark/obj_spark.yy",},},
     {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},},
     {"id":{"name":"playRoom","path":"rooms/playRoom/playRoom.yy",},},
+    {"id":{"name":"snd_spark","path":"sounds/snd_spark/snd_spark.yy",},},
+    {"id":{"name":"snd_water","path":"sounds/snd_water/snd_water.yy",},},
     {"id":{"name":"background","path":"sprites/background/background.yy",},},
     {"id":{"name":"spr_background_postapocalyptic","path":"sprites/spr_background_postapocalyptic/spr_background_postapocalyptic.yy",},},
     {"id":{"name":"spr_background_water","path":"sprites/spr_background_water/spr_background_water.yy",},},

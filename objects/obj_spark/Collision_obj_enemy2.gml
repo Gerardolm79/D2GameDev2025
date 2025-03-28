@@ -1,6 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
-//show_debug_message("score: " + healthPower);
+/// @description Coliision enemy2
+
 health += -2;
 show_debug_message("score: " +  string(health));
 
