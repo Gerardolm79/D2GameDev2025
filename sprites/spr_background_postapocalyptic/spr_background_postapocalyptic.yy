@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_background_postapocalyptic",
   "bboxMode":0,
-  "bbox_bottom":1535,
+  "bbox_bottom":2047,
   "bbox_left":0,
-  "bbox_right":1023,
+  "bbox_right":1365,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"eaafcbdd-c096-4c05-ad05-11b00ecb1949","name":"eaafcbdd-c096-4c05-ad05-11b00ecb1949","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"583a7269-39be-4527-964e-8595cd60b276","name":"583a7269-39be-4527-964e-8595cd60b276","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":1536,
+  "height":2048,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"f7936803-e291-4a1a-838e-30653ac39977","blendMode":0,"displayName":"default","isLocked":false,"name":"f7936803-e291-4a1a-838e-30653ac39977","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"77922d3c-efa5-4e04-b083-4a8573eecb5a","blendMode":0,"displayName":"default","isLocked":false,"name":"77922d3c-efa5-4e04-b083-4a8573eecb5a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_background_postapocalyptic",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"eaafcbdd-c096-4c05-ad05-11b00ecb1949","path":"sprites/spr_background_postapocalyptic/spr_background_postapocalyptic.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"14422f1c-dbc8-47ca-bedc-54279e8614c3","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"583a7269-39be-4527-964e-8595cd60b276","path":"sprites/spr_background_postapocalyptic/spr_background_postapocalyptic.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"cee2457b-0db0-4d63-822b-5823ae8eae4d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1024,
+  "width":1366,
 }
