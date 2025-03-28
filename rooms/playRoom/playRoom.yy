@@ -1,14 +1,14 @@
 {
   "$GMRoom":"",
-  "%Name":"rm_game",
-  "creationCodeFile":"rooms/rm_game/RoomCreationCode.gml",
+  "%Name":"playRoom",
+  "creationCodeFile":"rooms/playRoom/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_6C0EAB29","path":"rooms/rm_game/rm_game.yy",},
-    {"name":"inst_D9A4B80","path":"rooms/rm_game/rm_game.yy",},
-    {"name":"inst_1825B1D7","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_6C0EAB29","path":"rooms/playRoom/playRoom.yy",},
+    {"name":"inst_D9A4B80","path":"rooms/playRoom/playRoom.yy",},
+    {"name":"inst_1825B1D7","path":"rooms/playRoom/playRoom.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -19,7 +19,7 @@
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_background_postapocalyptic","path":"sprites/spr_background_postapocalyptic/spr_background_postapocalyptic.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":3.0,"vtiled":true,"x":0,"y":0,},
   ],
-  "name":"rm_game",
+  "name":"playRoom",
   "parent":{
     "name":"Rooms",
     "path":"folders/Rooms.yy",

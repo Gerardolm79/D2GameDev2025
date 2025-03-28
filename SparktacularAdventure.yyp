@@ -43,10 +43,9 @@
     {"id":{"name":"obj_spark","path":"objects/obj_spark/obj_spark.yy",},},
     {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},},
     {"id":{"name":"obj_gameover","path":"objects/obj_gameover/obj_gameover.yy",},},
-    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"id":{"name":"playRoom","path":"rooms/playRoom/playRoom.yy",},},
     {"id":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
-    {"id":{"name":"playRoom","path":"rooms/playRoom/playRoom.yy",},},
     {"id":{"name":"snd_spark","path":"sounds/snd_spark/snd_spark.yy",},},
     {"id":{"name":"snd_water","path":"sounds/snd_water/snd_water.yy",},},
     {"id":{"name":"background","path":"sprites/background/background.yy",},},
@@ -67,9 +66,8 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
-    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
-    {"roomid":{"name":"playRoom","path":"rooms/playRoom/playRoom.yy",},},
-	{"roomId":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},},
+    {"roomId":{"name":"playRoom","path":"rooms/playRoom/playRoom.yy",},},
+    {"roomId":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

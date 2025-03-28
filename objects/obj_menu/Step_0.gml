@@ -14,7 +14,7 @@ if (menu_state == 0) {
     if (keyboard_check_pressed(vk_enter)) {
         switch (menu_index) {
             case 0: 
-                room_goto(rm_game); 
+                room_goto(playRoom); 
                 break;
 
             case 1:
