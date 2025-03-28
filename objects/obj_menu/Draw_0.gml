@@ -11,6 +11,7 @@ draw_set_color(c_white);
 
 draw_text(menu_x, room_height / 4, "Sparktacular Adventure");
 
+draw_set_font(menu_options_font);
 if (menu_state == 0) {
     for (var i = 0; i < menu_length; i++) {
         var y_position = menu_y + i * menu_spacing;
