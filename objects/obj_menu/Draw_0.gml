@@ -35,7 +35,7 @@ if (menu_state == 0) {
 else if (menu_state == 1) {
     draw_set_alpha(0.6); 
     draw_set_color(c_black);
-    draw_rectangle(menu_x - 220, menu_y - 80, menu_x + 220, menu_y + 100, false);
+    draw_rectangle(menu_x - 270, menu_y - 80, menu_x + 270, menu_y + 100, false);
     draw_set_alpha(1);
 
     draw_set_color(c_white);
