@@ -6,6 +6,7 @@ show_debug_message("enemy2_life: " +  string(other.enemy2_health));
 
 
 if( other.enemy2_health <=0) {
+	score ++;
 	instance_destroy(other);
 }
 instance_destroy();

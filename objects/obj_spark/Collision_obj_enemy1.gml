@@ -1,6 +1,7 @@
 /// @description Collision with enemy1
 
 health--;
+score--;
 show_debug_message("score: " +  string(health));
 audio_play_sound(snd_water, 0, 0);
 instance_destroy(other);

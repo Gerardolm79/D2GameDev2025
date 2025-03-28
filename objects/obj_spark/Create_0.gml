@@ -1,6 +1,11 @@
 var size = 1;
 image_speed = 0.5;
-health = 1;
+health = 10;
+score = 0;
+
+in_flames = false;
+
+timer =0;
 
 side = "left";
 
