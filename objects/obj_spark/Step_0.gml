@@ -5,6 +5,7 @@ if( health>=10 ){
 	
 	if (keyboard_check_pressed(vk_space)){
 		instance_create_layer(x,y,"instances", obj_bullet);
+		audio_play_sound(snd_shooting, 0, 0);
 	}
 	
 	

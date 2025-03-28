@@ -30,7 +30,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"SparktacularAdventure",
   "resources":[
@@ -49,6 +49,7 @@
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"id":{"name":"snd_background","path":"sounds/snd_background/snd_background.yy",},},
     {"id":{"name":"snd_ice","path":"sounds/snd_ice/snd_ice.yy",},},
+    {"id":{"name":"snd_shooting","path":"sounds/snd_shooting/snd_shooting.yy",},},
     {"id":{"name":"snd_spark","path":"sounds/snd_spark/snd_spark.yy",},},
     {"id":{"name":"snd_water","path":"sounds/snd_water/snd_water.yy",},},
     {"id":{"name":"background","path":"sprites/background/background.yy",},},
